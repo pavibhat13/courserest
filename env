@@ -1,0 +1,2 @@
+MONGO_URI = mongodb+srv://meanhive:shreeram@cluster0.rj2za.mongodb.net/bepractical?authSource=admin&ssl=true
+PORT=4600

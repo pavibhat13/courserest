@@ -1,0 +1,4 @@
+{
+    "mongo_uri":"mongodb+srv://meanhive:shreeram@cluster0.rj2za.mongodb.net/bepractical?authSource=admin&&ssl=true",
+    "port": 4600
+}
